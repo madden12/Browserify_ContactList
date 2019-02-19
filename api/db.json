@@ -1,0 +1,16 @@
+{
+    "contacts": [
+        {
+            "id": 1,
+            "name": "Megan",
+            "phone": 7014005442,
+            "address": "960 Washington Avenue Huntington, WV 25704"
+        },
+        {
+            "id": 2,
+            "name": "Mom",
+            "phone": 3047109935,
+            "address": "48 Hamil Road Huntington, WV 25704"
+        }
+    ]
+}
